@@ -1,0 +1,27 @@
+
+
+table{width:100%; border-collapse:collapse;  }
+
+th,td{padding:20px;  text-align:center;	}
+
+td:nth-child(odd){ background-color:linear-gradient(to top left, #28b487, #7dd56f);;  }
+
+td:hover{background-color:red;color:blue }
+
+.div1{
+	width:100% ; background-color:blue; height:160px;
+ position:relation; padding:10px 100px 100px;  }
+
+.div2{ 
+	 margin-left:70px; float:left; padding-top:50px; 
+	width:100%; margin-top:50px; background-color:Cyan; height:80px; text-align:center;}
+
+
+.div3{
+	 float:left; width:7%; background-color:red; height:100px; }
+.div5{
+	float:right; width:1%; background-color:red; height:99px; }
+
+
+.div4{
+	 float:right; width:0%; background-color:Skyblue; height:99px; }
